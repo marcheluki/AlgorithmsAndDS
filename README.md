@@ -1,2 +1,2 @@
 # AlgorithmsAndDS
-A compilation of every algorithm, sorting methods, data structures and whatever I could find to pass coding interviews!
+A compilation of every algorithm, sorting method, data structure and basically everything I could find to pass coding interviews!
