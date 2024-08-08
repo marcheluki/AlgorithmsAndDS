@@ -31,3 +31,31 @@ int main() {
     printArr(arr, n);
     return 0;
 }
+
+// complexity of insertion sort is O(n^2) because there are two nested loops in the function.
+
+// example:
+// Original array: 64 34 25 12 22 11 90
+// key = 34
+// j = 0
+// j >= 0 && arr[0] > 34
+// arr[1] = 64
+// arr= 64 64 25 12 22 11 90
+// j = -1 -> loop ends
+// arr[0] = 34
+// arr= 34 64 25 12 22 11 90
+
+// key = 25
+// j = 1
+// j >= 0 && arr[1] > 25
+// arr[2] = 64
+// arr= 34 64 64 12 22 11 90
+// j = 0
+// j >= 0 && arr[0] > 25
+// arr[1] = 34
+// arr= 34 34 64 12 22 11 90
+// j = -1 -> loop ends
+// arr[0] = 25
+// arr= 25 34 64 12 22 11 90
+// and so on ...
+
