@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/marce/Documents/a_itc/AlgorithmsAndDS/SortingAndStuff/InsertionSort",
-      "program": "c:/Users/marce/Documents/a_itc/AlgorithmsAndDS/SortingAndStuff/InsertionSort/build/Debug/outDebug",
+      "cwd": "c:/Users/marce/Documents/a_itc/AlgorithmsAndDS/SortingAndStuff/MergeSort",
+      "program": "c:/Users/marce/Documents/a_itc/AlgorithmsAndDS/SortingAndStuff/MergeSort/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
